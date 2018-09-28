@@ -16,3 +16,6 @@ CSE Spring MVC Server
 4，resource目录下定义了一些配置文件，包括log4j的配置文件，微服务的配置信息，以及swagger协议文件等等。
 
 5，特别注意两点：microservice.yaml里面配置信息要填写正确，生成的有可能有些偏差；swagger.yaml里面的x-java-interface配置项一定要指定为com.service.abc.controller.Abc。
+
+
+lijinyong	LGWMP1HL6CUNWVNDW1WS	e4Gx2chLxE5vt3pWgI9GhR9efqyjeCcA3MwWFMnu
